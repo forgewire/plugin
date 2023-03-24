@@ -1,0 +1,21 @@
+
+.btn-primary{
+  --btn-bg-color: green;
+  --btn-text-color: #fef;
+  --btn-border-color: green;
+}
+
+.btn-primary:hover{
+  --btn-bg-color: darkgreen;
+  --btn-border-color: darkgreen;
+}
+
+.btn-warning{
+  --btn-bg-color: theme('colors.yellow.600');
+  --btn-text-color: theme('colors.slate.800');
+  --btn-border-color: theme('colors.yellow.700');
+}
+
+.btn-warning:hover{
+  --btn-bg-color: theme('colors.yellow.500');
+}

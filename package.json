@@ -1,0 +1,16 @@
+{
+  "name": "@forgewire/plugin",
+  "version": "0.1.0",
+  "description": "Tailwindcss components plugin",
+  "main": "src/index.js",
+  "repository": "-",
+  "author": "Federico Mameli",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "prettier": "^2.8.6"
+  }
+}
